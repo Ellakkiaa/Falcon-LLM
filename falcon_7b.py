@@ -40,7 +40,8 @@ sequences = pipeline(
 for seq in sequences:
     print(f"Prompt: {seq['generated_text']}")
 
-"""AI stands for Artificial Intelligence. It is a branch of computer science that deals with machines and software that can perform tasks that would usually be done by humans. In simple terms, it is the technology that makes computers smarter and can be used in a variety of industries from healthcare to finance.
+"""
+AI stands for Artificial Intelligence. It is a branch of computer science that deals with machines and software that can perform tasks that would usually be done by humans. In simple terms, it is the technology that makes computers smarter and can be used in a variety of industries from healthcare to finance.
 
 """
 
